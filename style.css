@@ -4,7 +4,20 @@
     font-family:"Allerta";
     background-color: #f4f3f8;
 }
-
+#navFirst{
+  position: relative;
+  top:20px;
+  left: 20px;
+}
+#navMid{
+  display: flex;
+}
+#mid{
+  position: relative;
+  top:-40px;
+  padding-left: 30px;
+  left: 300px;
+}
 #Img{
   position: relative;
  top: -300px;
